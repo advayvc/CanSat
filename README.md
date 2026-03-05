@@ -35,11 +35,11 @@ Typical communication range can be** ~2 km line-of-sight with a simple wire ante
 <h3> 🛠 How You Use It </h3>
  
 1. Hook it up to a microcontroller:
- * Connect SPI pins (MOSI, MISO, SCK, CS), interrupt pin, and power.
- * Supply 3.3 V (it has an onboard regulator) or use a 5 V logic level-shifter.
+    * Connect SPI pins (MOSI, MISO, SCK, CS), interrupt pin, and power.
+    * Supply 3.3 V (it has an onboard regulator) or use a 5 V logic level-shifter.
 2. Add an antenna:
- * A simple length of wire tuned to the frequency works fine, or use a proper antenna on a uFL/SMA connector.
+    * A simple length of wire tuned to the frequency works fine, or use a proper antenna on a uFL/SMA connector.
 3. Use a LoRa library:
- * With Arduino IDE, libraries like RadioHead or Adafruit’s LoRa examples let you send/receive packets.
+    * With Arduino IDE, libraries like RadioHead or Adafruit’s LoRa examples let you send/receive packets.
 4. Match Channels:
- * All radios communicating must be set to the same frequency and settings (e.g., spreading factor, bandwidth).
+    * All radios communicating must be set to the same frequency and settings (e.g., spreading factor, bandwidth).
