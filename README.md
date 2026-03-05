@@ -48,3 +48,6 @@ Typical communication range can be** ~2 km line-of-sight with a simple wire ante
 
 <h3> 📌 Notes & Tips </h3>
 
+* It supports **half-duplex** LoRa communication — it can send, then listen, but not do both simultaneously.
+* Range and reliability depend heavily on antenna quality, environment (buildings/trees block signals), and radio settings.
+* Always ensure you use the correct legal frequency and power settings for your country.
