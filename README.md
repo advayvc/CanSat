@@ -29,3 +29,4 @@ This breakout uses the SX1276 LoRa® RF transceiver chip and lets you send and r
 *Arduino Libraries: Supported by ready-to-use Arduino code examples (RadioHead, etc.).
 
 Typical communication range can be ~2 km line-of-sight with a simple wire antenna, and with high-gain or directional antennas, tens of kilometers in some situations.
+ 
