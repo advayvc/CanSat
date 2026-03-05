@@ -10,7 +10,7 @@ The **Adafruit RFM95W LoRa Radio Transceiver Breakout** is a small LoRa-capable 
 
 ---
 
-<h1> 🔎 **What It Is** </h1>
+<h3> 🔎 **What It Is** </h3>
 
 This breakout uses the SX1276 LoRa® RF transceiver chip and lets you send and receive long-range wireless data using the license-free industrial, scientific, and medical (ISM) bands (868 MHz in Europe or 915 MHz in the US).
 
