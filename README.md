@@ -1,1 +1,3 @@
-# CanSat<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/280bfd01-ec33-469f-9f77-256cf8ec949b" />
+# CanSat
+
+# Adafruit RFM95W LoRa Radio Transceiver Breakout - 868 or 915 MHz (RadioFruit)
