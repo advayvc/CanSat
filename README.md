@@ -18,7 +18,7 @@ This breakout uses the SX1276 LoRa® RF transceiver chip and lets you send and r
 
 ---
 
-<h3> 🧰 Key Features </h3>\
+<h3> 🧰 Key Features </h3>
 
 * Frequency: Works on 868 MHz or 915 MHz ISM bands (chosen in software).
 * LoRa Modulation: Long-range radio technology — typically much farther than simple FM/ASK radios.
