@@ -1,5 +1,3 @@
-# CanSat
-
 # Adafruit RFM95W LoRa Radio Transceiver Breakout
 
 Image 1                                                                                                                             |  Image 2
